@@ -1,4 +1,27 @@
-torch
-matplotlib
-seaborn
-numpy
+# Deep Learning
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Data
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Images
+Pillow>=10.2.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.29.0
+notebook>=7.0.0
+
+# Utilities
+tqdm>=4.66.0
+
+# Optional Experiment Tracking
+tensorboard>=2.16.0
+
+# Optional Metrics
+scikit-learn>=1.4.0
